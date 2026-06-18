@@ -14,7 +14,7 @@ body {
   overflow-x: hidden;
 }
 
-/* Force the binary text blocks to stay fixed, faint, and bounded in the background */
+/* Force background grid layouts to stay bounded and faint */
 .pointer-events-none {
   pointer-events: none;
 }
@@ -34,11 +34,6 @@ body {
   opacity: 0.03;
 }
 
-.break-all {
-  word-break: break-all;
-}
-
-/* Glowing asset profiles */
 .glow-effect {
   box-shadow: 0 0 20px rgba(0, 255, 102, 0.15);
   border: 1px solid rgba(0, 255, 102, 0.3);
