@@ -1,8 +1,7 @@
 "use client";
 import { motion } from "framer-motion";
 import { Shield, Brain, Cpu, Terminal, ExternalLink, Mail, ShieldAlert, Award } from "lucide-react";
-import BinaryBackground from "@/components/BinaryBackground";
-
+import BinaryBackground from "../components/BinaryBackground";
 // Animation Configs
 const fadeInUp = {
   initial: { opacity: 0, y: 30 },
