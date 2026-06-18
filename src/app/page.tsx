@@ -1,6 +1,6 @@
 "use client";
 import { motion } from "framer-motion";
-import { Shield, Brain, Cpu, Terminal, ExternalLink, Github, Linkedin, Mail, ShieldAlert, Award } from "lucide-react";
+import { Shield, Brain, Cpu, Terminal, ExternalLink, Mail, ShieldAlert, Award } from "lucide-react";
 import BinaryBackground from "@/components/BinaryBackground";
 
 // Animation Configs
